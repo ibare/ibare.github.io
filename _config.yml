@@ -76,5 +76,5 @@ theme: apollo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+deploy: git
+type: https://github.com/ibare/ibare.github.io
